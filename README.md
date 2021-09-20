@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KumarNaveenKumar
 - 👀 I’m interested in Full Stack Developement
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on HTML, CSS  and Javascript Projects
+- 🌱 I’m currently learning Reactjs
+- 💞️ I’m looking to collaborate on HTML, CSS, Sass, Javascript and Reactjs Projects
 - 📫 naveenchaudharyyyy@gmail.com
 
 <!---
