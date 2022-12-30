@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Naveen Kumar.
--    I'm student, learner and devloper.
